@@ -1,2 +1,2 @@
 # Brain-Tumor-Detector
-Brain Tumor Detection using CNN
+The integration of advanced technology into healthcare is enhancing diagnostic accuracy and reducing human error. Computer vision, in particular, plays a crucial role in improving medical diagnoses. For instance, analyzing MRI scans for brain-related conditions demands intense focus, as any misjudgment can have severe consequences. MRI imaging is capable of detecting even the smallest anomalies in the human body. To enhance this process, we train a model specifically designed to identify these subtle abnormalities in MRI scans and accurately predict the presence of tumors. Convolutional Neural Networks (CNNs) have proven to be one of the most effective techniques for addressing this challenge.
