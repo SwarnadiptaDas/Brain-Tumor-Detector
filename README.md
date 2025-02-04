@@ -11,3 +11,8 @@ The integration of advanced technology into healthcare is enhancing diagnostic a
 5. **Training & Optimization:** The model is trained on labeled MRI scans using loss functions and optimization algorithms to improve accuracy.  
 
 This approach enables CNNs to detect even subtle anomalies in MRI scans with high precision.
+
+### Results
+The final model, which achieved the highest validation accuracy, successfully detects brain tumors with:
+
+- **100% accuracy** on the test set.
